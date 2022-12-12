@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MohammadGlp
 - 👀 I’m interested in web developer
-- 🌱 I’m currently learning React
+- 🌱 I’m a React Mid Developer
 - 💞️ I am not currently looking for cooperation
 
 <!---
