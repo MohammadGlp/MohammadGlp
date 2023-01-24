@@ -1,7 +1,8 @@
-- 👋 Hi, I’m MohammadGlp
+- 👋 Hi, I’m Mohammad
 - 👀 I’m interested in web developer
 - 🌱 I’m a React Mid Developer
-- 💞️ I am currently looking for cooperation
+- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently learning everything 🤣
 
 <!---
 MohammadGlp/MohammadGlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
