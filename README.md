@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MohammadGlp
 - 👀 I’m interested in web developer
 - 🌱 I’m a React Mid Developer
-- 💞️ I am not currently looking for cooperation
+- 💞️ I am currently looking for cooperation
 
 <!---
 MohammadGlp/MohammadGlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
